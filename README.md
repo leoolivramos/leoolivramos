@@ -1,12 +1,19 @@
 ## Olá! Eu sou Leonardo Ramos!
 
-Bem-vindo ao meu mundo, onde a paixão pela tecnologia e a busca incessante por desafios se encontram em um universo de possibilidades!
+Atuo com desenvolvimento de software e tenho experiência em back-end, bancos de dados e desenvolvimento de interfaces. Gosto de entender o problema por trás de cada sistema e construir soluções que sejam úteis, bem estruturadas e sustentáveis.
+Atualmente, curso Ciência da Computação na Universidade Federal de Mato Grosso (UFMT). Minha experiência inclui projetos acadêmicos e pessoais, estágio na Controladoria-Geral do Estado e atuação na Infocorp Jr e no Projeto NIESA.
 
-Sou um estudante apaixonado por Ciência da Computação na renomada Universidade Federal de Mato Grosso (UFMT), onde tenho a oportunidade de explorar os mais diversos conceitos e fundamentos dessa fascinante área. Desde os primeiros passos no mundo da programação até as complexidades da teoria da computação, cada desafio enfrentado é uma oportunidade de aprendizado e crescimento.
+### Áreas de atuação e interesse
+
+• Desenvolvimento back-end com Java e Spring Boot
+• Modelagem e integração com bancos de dados relacionais
+• Desenvolvimento de interfaces com Vue, React e Angular
+• Arquitetura de software, processamento de dados e sistemas distribuídos
 
 ### Foco atual
 
 Atualmente, estou focado em buscar um espaço no dinâmico e empolgante mercado de desenvolvimento web. Através do aprendizado contínuo e da prática constante, estou construindo meu caminho para me tornar um profissional qualificado e criativo nessa área tão empolgante.
+
 
 ### Projetos pessoais principais
 
@@ -27,6 +34,7 @@ Diferente de soluções de prateleira que exigem permissões elevadas e acesso a
 
 - **E-mail:** leoolivramos@gmail.com
 - **LinkedIn:** [linkedin.com/in/leonardo-de-oliveira-ramos-690318270/](https://www.linkedin.com/in/leonardo-de-oliveira-ramos-690318270/)
+- **Portfólio:** [portfolio-integrado](https://portfolio-integrado.up.railway.app/)
 
 ### Mais sobre mim
 
@@ -40,15 +48,15 @@ Diferente de soluções de prateleira que exigem permissões elevadas e acesso a
   - Tecnologias utilizadas: Java Spring, HTML/CSS, JavaScript, Thymeleaf, PostgreSQL, Oracle, API da Google Cloud.
   - Rankeado em 19° colocação da trilha de Java de 90 alunos.
 
-- **8° Período Bacharelado em Ciência da Computação**  
+- **8º Período Bacharelado em Ciência da Computação**  
   **Universidade Federal de Mato Grosso (UFMT) | Campus Cuiabá**  
   - Disciplinas incluem Programação em C/C++/Python, Algoritmos e Estruturas de Dados.
   - Desenvolvimento de projetos próprios utilizando React.
 
-- **Estágio na área de Ánalise e Desenvolvimento de Sistemas**  
+- **Estágio na área de Análise e Desenvolvimento de Sistemas**  
   **Controladoria Geral do Estado (CGE)**  
   - Envolvimento em sistemas desenvolvidos em Java Spring Boot.
-  - Implementação de funcionalidades em front-end Vue e React.
+  - Implementação de funcionalidades em front-end com Vue e React.
   
 - **Desenvolvedor Back-End e Banco de Dados**  
     **Infocorp Jr (UFMT)**  
@@ -62,4 +70,4 @@ Diferente de soluções de prateleira que exigem permissões elevadas e acesso a
   - Manutenção de sistema em Java Spring e Angular.
   - Contato com o Ministério Público do Estado para implantação de uma versão interna do sistema.
 
-Obrigado por visitar meu perfil! Estou ansioso para nos conectarmos e colaborarmos em projetos interessantes!
+Obrigado por conhecer meu trabalho. Estou aberto a trocar ideias e colaborar em projetos de software e dados.
